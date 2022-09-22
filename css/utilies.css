@@ -1,0 +1,74 @@
+.circle-radius {
+  border-radius: 50%;
+}
+.img-width {
+  width: 2vw;
+}
+.hover-scale:hover {
+  transform: scale(1.1);
+  background: transparent !important;
+}
+.main-padding {
+  padding: 6% 7% !important;
+}
+.navHover:hover {
+  color: grey !important;
+}
+.grey-background {
+  background: rgb(213, 211, 211) !important;
+}
+.img-margin {
+  margin: 0 9px 0 0;
+}
+.flex {
+  display: flex;
+  flex-direction: row;
+}
+.leftToRight-margin {
+  margin: 0 3vw 0 7vw;
+}
+a {
+  text-decoration: none !important;
+  color: #fff !important;
+}
+.main-margin {
+  margin: 3% 6.5%;
+}
+.text-margin {
+  margin: 3% 0 7%;
+}
+.btn-padding {
+  padding: 2.5% 4%;
+}
+.btn-radius {
+  border-radius: 18px;
+}
+.text-color {
+  color: #faf8f8;
+}
+.para-color {
+  color: #aeabab;
+}
+.mobile-margin-top,
+.tablet-margin-top {
+  margin-top: 25px;
+}
+.main-font {
+  font-family: "Raleway", sans-serif !important;
+}
+a:hover,
+a:focus,
+.btn:hover,
+.btn:focus,
+button:hover,
+button:focus {
+  text-decoration: none;
+  outline: none;
+}
+.letterspacing{
+    letter-spacing: 2px;
+}
+
+li{
+    list-style: none;
+}
